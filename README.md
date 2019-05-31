@@ -29,16 +29,17 @@ This project proposes and implements an artificial intelligent chatbot system fo
 ---
 ## SECTION 5 : USER GUIDE
 
-`<Github File Link>` : <https://github.com/teamHexMtech/IRS-RS-2019-03-09-IS01PT-GRP-Hex-Sdot_Scheduling_and_Dispatch_Optimization_Tool/blob/master/UserGuide/UserGuide.pdf>
+`<Github File Link>` : <https://github.com/teamHexMtech/IRS-RS-2019-04-27-IS01PT-GRP-Hex-ISS_CHATBOT/blob/master/chatbot/UserGuide/UserGuide.pdf>
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-`<Github File Link>` : <https://github.com/teamHexMtech/IRS-RS-2019-03-09-IS01PT-GRP-Hex-Sdot_Scheduling_and_Dispatch_Optimization_Tool/blob/master/ProjectReport/ProjectReport.pdf>
+`<Github File Link>` : <https://github.com/teamHexMtech/IRS-RS-2019-04-27-IS01PT-GRP-Hex-ISS_CHATBOT/blob/master/chatbot/Report/ISS%20CHATBOT-HEX%20report-%20GROUP%20HEX%20-%20final%20edit.docx>
 
 ---
 ## SECTION 7 : MISCELLANEOUS
-
+Entities.zip
+Intent&Utterance.zip
 
 ---
 
