@@ -39,6 +39,7 @@ This project proposes and implements an artificial intelligent chatbot system fo
 ---
 ## SECTION 7 : MISCELLANEOUS
 Entities.zip
+
 Intent&Utterance.zip
 
 ---
