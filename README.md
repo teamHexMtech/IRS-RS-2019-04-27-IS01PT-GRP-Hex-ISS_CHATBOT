@@ -34,7 +34,7 @@ This project proposes and implements an artificial intelligent chatbot system fo
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-`<Github File Link>` : <https://github.com/teamHexMtech/IRS-RS-2019-04-27-IS01PT-GRP-Hex-ISS_CHATBOT/blob/master/chatbot/Report/ISS%20CHATBOT-HEX%20report-%20GROUP%20HEX%20-%20final%20edit.docx>
+`<Github File Link>` : <https://github.com/teamHexMtech/IRS-RS-2019-04-27-IS01PT-GRP-Hex-ISS_CHATBOT/blob/master/Report/ISS_CHATBOT-HEX_Report-GROUP_HEX.pdf>
 
 ---
 ## SECTION 7 : MISCELLANEOUS
