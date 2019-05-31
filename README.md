@@ -15,10 +15,10 @@ This project proposes and implements an artificial intelligent chatbot system fo
 
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
-| CH'NG WEI LUEN | A0195251E | Prepare, extract and clean datasets for system development.| e0384882@u.nus.edu |
+| CH'NG WEI LUEN | A0195251E | Develop entities and intent in dialogflow,fullfillment development| e0384882@u.nus.edu |
 | LIM LI WEI | A0087855L | Helped with entities and intent in dialogflow, feasibility study for chatbot| e0319479@u.nus.edu |
 | PAMELA LIN YAN LING | A0196413A | Provide utterance to train the chatbot，define and design intent and entities,define methodology and system,requirements in report writing.| e0388053@u.nus.edu |
-| PREM S/O PIRAPALA CHANDRAN | A0195324A | Integrated different sections of report from group members to create flow in group report. Wrote executive summaryand aspects of conclusion. Proof read report.| e0384955@u.nus.edu |
+| PREM S/O PIRAPALA CHANDRAN | A0195324A | Integrated different sections of report from group members to create flow in group report. Wrote executive summaryand aspects of conclusion. Proof read report. Video making.| e0384955@u.nus.edu |
 | YE CHANGHE | A0150138N | Core python developer，system design and development, end to end test and version control.| e0015120@u.nus.edu |
 | ZHANG HAIHAN | A0150701X |Provide utterance to train the chatbot，define and design intent and entities, end-to-end test and test case design, readme file and github management | e0015787@u.nus.edu |
 ---
