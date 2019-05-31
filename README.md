@@ -24,7 +24,7 @@ This project proposes and implements an artificial intelligent chatbot system fo
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![Sdot](https://live.staticflickr.com/65535/47972358351_01510dcc1e.jpg)](https://drive.google.com/open?id=1x2hXfK3hWXsKZxDLwkaowhnTRy9CevTd "hex_chatbot")
+[![chatbot](https://live.staticflickr.com/65535/47972358351_01510dcc1e.jpg)](https://drive.google.com/file/d/1FhxCXpStMn6lju7eKJkGpQHid2nw8l_j/view?usp=sharing "hex_chatbot")
 
 ---
 ## SECTION 5 : USER GUIDE
