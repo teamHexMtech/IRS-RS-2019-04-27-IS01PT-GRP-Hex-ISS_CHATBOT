@@ -6,7 +6,7 @@
 
 Artificial Intelligent Chatbots are becoming a more prevalent form of service technology in a variety of scenarios in industries ranging from banking, customer services, logistics and education. Traditional computer interfaces require structured and predictable input in order to function properly making their use unnatural and non-user friendly. If users are not able to easily understand their structured input, they encounter difficulty in figuring out how to make a query using such a system. An ideal interface should be able to infer what users want, based on the natural language used by the user(s), be it in the format of textual input or speech.
 
-![Sdot](https://live.staticflickr.com/65535/47970020898_88f8c95baa_n.jpg)
+![architecture](https://live.staticflickr.com/65535/47970020898_88f8c95baa_n.jpg)
 
 This project proposes and implements an artificial intelligent chatbot system for the National University of Singapore (Institute of Systems Science) website (https://www.iss.nus.edu.sg/) that allows users to enter textual-based queries that the system will respond to with relevant information. The intent behind this chatbot system is to allow users to search for the more common information normally termed as  frequently asked questions (FAQ) in a more efficient and responsive way that accommodates for differences in syntax of questioning grammar but is still able to return a relevant response based on keywords in the query based on Natural Language Processing (NLP). The effectiveness of such a system is reviewed based on efficiency of performance and effectiveness of functionality. Based on the review, we suggest some proposals on how such a system could be made more robust.
 
@@ -24,7 +24,7 @@ This project proposes and implements an artificial intelligent chatbot system fo
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![Sdot](https://live.staticflickr.com/65535/47972358351_01510dcc1e_n.jpg)](https://drive.google.com/open?id=1x2hXfK3hWXsKZxDLwkaowhnTRy9CevTd "hex_chatbot")
+[![Sdot](https://live.staticflickr.com/65535/47972358351_01510dcc1e.jpg)](https://drive.google.com/open?id=1x2hXfK3hWXsKZxDLwkaowhnTRy9CevTd "hex_chatbot")
 
 ---
 ## SECTION 5 : USER GUIDE
