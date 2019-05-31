@@ -1,5 +1,5 @@
 ## SECTION 1 : PROJECT TITLE
-## Scheduling and Dispatch Optimization Tool
+## Chat Bot For ISS Information
 
 ---
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
